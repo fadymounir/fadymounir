@@ -7,15 +7,19 @@
   <a href="https://github.com/fadymounir"><img src="https://img.shields.io/badge/GitHub-fadymounir-181717?style=flat-square&logo=github" /></a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fadymounir.visitor-badge" alt="visitor badge"/>
+</p>
+
 ---
 
 ## 🧠 About Me
 
-🎯 I’m a **Senior Backend Developer** with more than **8 years** of hands-on experience crafting performant, scalable, and secure backend systems.
+🎯 I’m a **Senior Backend Developer** with more than **8 years** of experience designing and building high-performance systems for production environments.
 
-💡 Passionate about writing clean code, designing scalable architectures, and delivering real-world solutions across high-traffic and enterprise platforms.
+💡 Passionate about writing clean code, scaling systems, and solving complex backend problems using the best tools and patterns.
 
-🌍 Based in **Cairo, Egypt**  
+📍 Based in **Cairo, Egypt**  
 🛡️ Military Status: **Finished**
 
 ---
@@ -55,35 +59,35 @@
 ### 🔹 **Senior Backend Engineer** @ [Elwaseet](https://kw.waseet.net)  
 🗓️ Nov 2023 – Present  
 **Tech:** Laravel, Yii, Redis, RabbitMQ, Elasticsearch, Docker, MySQL, MongoDB  
-✅ Leading backend services, building real-time systems, payment gateway integrations
+✅ Leading backend services, building real-time systems, and integrating payment gateways
 
 ---
 
 ### 🔹 **Backend Developer** @ [Kick Start Interactive](https://www.linkedin.com/company/kickstartinteractive/)  
 🗓️ Feb 2023 – Nov 2023  
 **Tech:** Laravel, Vue.js, REST APIs, Redis, MySQL  
-✅ Full-stack solutions, modular API design, backend performance optimization
+✅ Full-stack app development, modular API architecture, and backend optimization
 
 ---
 
 ### 🔹 **Software Engineer** @ [Akhnaton Trading – Eva Group](https://www.linkedin.com/company/akhnaton-trading-and-distribution/)  
 🗓️ Mar 2022 – Feb 2023  
 **Tech:** Laravel, Native PHP, Oracle, Redis  
-✅ ERP development, legacy modernization, internal tools
+✅ ERP modules, database optimization, and internal tooling
 
 ---
 
 ### 🔹 **Backend Engineer** @ [Signmanage Group](https://www.linkedin.com/company/signmanage/)  
 🗓️ Mar 2020 – Mar 2022  
 **Tech:** Symfony, Node.js, MongoDB, Socket.IO  
-✅ Real-time APIs, third-party integrations, deployment automation
+✅ Real-time APIs, 3rd-party integrations, and production deployment
 
 ---
 
 ### 🔹 **Web Developer** @ [Magdsoft](https://www.linkedin.com/company/magdsoft/)  
 🗓️ Jun 2016 – Feb 2020  
 **Tech:** Laravel, CodeIgniter, MySQL, Bootstrap  
-✅ Admin panels, user auth systems, client solutions
+✅ Admin dashboards, user auth, and client web solutions
 
 ---
 
@@ -91,19 +95,19 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Waseet.net](https://waseet.net/ar) | Classified ads portal – backend API & Elasticsearch | Laravel, Elasticsearch |
-| [Plus On Off](https://plusonoff.com) | Role-based system with billing – full-stack dev | Laravel |
+| [Waseet.net](https://waseet.net/ar) | Classified portal – backend API + Elasticsearch | Laravel, Elasticsearch |
+| [Plus On Off](https://plusonoff.com) | Role-based SaaS platform with billing | Laravel |
 | [BlueOrange Travel](https://b2busd.blueorange.travel) | B2B booking engine backend | Laravel |
-| [🗂️ All Work Samples](https://docs.google.com/spreadsheets/d/1kojuuxr3VUBRNrcyVy3r9re0ybCqprovRp_braxdwYA/edit?usp=sharing) | Google Sheet – code samples, demos, and contributions | Various |
+| [All Work Samples](https://docs.google.com/spreadsheets/d/1kojuuxr3VUBRNrcyVy3r9re0ybCqprovRp_braxdwYA/edit?usp=sharing) | Code samples & case studies | Multiple stacks |
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fady-mounir-55a297138/)
 - 💻 [GitHub](https://github.com/fadymounir)
-- 📩 [Email](mailto:fadymounir96@gmail.com)
-- 📞 +201224267589 | +201017588746
+- 📧 [Email](mailto:fadymounir96@gmail.com)
+- 📱 +201224267589 | +201017588746
 
 ---
 
