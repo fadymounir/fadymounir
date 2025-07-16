@@ -2,9 +2,15 @@
 <h3 align="center">🚀 Senior Backend Developer | PHP, Laravel, Symfony, Node.js</h3>
 
 <p align="center">
-  <a href="mailto:fadymounir96@gmail.com"><img src="https://img.shields.io/badge/email-fadymounir96@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  📍 Cairo, Egypt &nbsp;|&nbsp;
+  📧 <a href="mailto:fadymounir96@gmail.com">fadymounir96@gmail.com</a> &nbsp;|&nbsp;
+  📱 +201224267589 / +201017588746  
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/fady-mounir-55a297138/"><img src="https://img.shields.io/badge/LinkedIn-Fady_Mounir-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/fadymounir"><img src="https://img.shields.io/badge/GitHub-fadymounir-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:fadymounir96@gmail.com"><img src="https://img.shields.io/badge/email-fadymounir96@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +25,6 @@
 
 💡 Passionate about writing clean code, scaling systems, and solving complex backend problems using the best tools and patterns.
 
-📍 Based in **Cairo, Egypt**  
 🛡️ Military Status: **Finished**
 
 ---
@@ -102,15 +107,14 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fady-mounir-55a297138/)
 - 💻 [GitHub](https://github.com/fadymounir)
-- 📧 [Email](mailto:fadymounir96@gmail.com)
-- 📱 +201224267589 | +201017588746
+- 📧 [Email Me](mailto:fadymounir96@gmail.com)
+- 📱 +201224267589 / +201017588746
 
 ---
 
 > 🧠 *“Great software is built by thinking deeply, writing cleanly, and optimizing continuously.”*  
 > — *Fady Mounir*
-
